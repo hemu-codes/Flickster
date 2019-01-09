@@ -2,7 +2,7 @@
 
 **Flickster** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -12,9 +12,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Views should be responsive for both landscape/portrait mode.
-      * [ ] In portrait mode, the poster image, title, and movie overview is shown.
-      * [ ] In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
+* [X] Views should be responsive for both landscape/portrait mode.
+      * [X] In portrait mode, the poster image, title, and movie overview is shown.
+      * [X] In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
 * [ ] Display a nice default [placeholder graphic](https://guides.codepath.com/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
 * [ ] Improved the user interface by experimenting with styling and coloring.
