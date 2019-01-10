@@ -17,7 +17,7 @@ The following **optional** features are implemented:
       * [X] In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
 * [ ] Display a nice default [placeholder graphic](https://guides.codepath.com/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
-* [ ] Improved the user interface by experimenting with styling and coloring.
+* [X] Improved the user interface by experimenting with styling and coloring.
 * [ ] For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 The following **additional** features are implemented:
@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a hard time implementing the placeholder graphic feature which required us to use Glide. 
 
 ## Open-source libraries used
 
